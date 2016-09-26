@@ -26,15 +26,9 @@ memory_calculator:
   memory_sizes:
     heap: 1331m
     metaspace: 205m
-    native: 205m
-    permgen: 205m
-    stack: 102m
-  memory_heuristics:
-    heap: 65
-    metaspace: 10
-    native: 10
-    permgen: 10
-    stack: 5
+    native: 64m
+    permgen: 64m
+    stack: 32m
   memory_initials:
     heap: 100%
     metaspace: 100%
